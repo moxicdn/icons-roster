@@ -1,0 +1,168 @@
+@font-face {
+  font-family: 'moxi-icon-font';
+  src:  url('fonts/moxi-icon-font.eot?pv8qnt');
+  src:  url('fonts/moxi-icon-font.eot?pv8qnt#iefix') format('embedded-opentype'),
+    url('fonts/moxi-icon-font.ttf?pv8qnt') format('truetype'),
+    url('fonts/moxi-icon-font.woff?pv8qnt') format('woff'),
+    url('fonts/moxi-icon-font.svg?pv8qnt#moxi-icon-font') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+[class^="icon-mw-"], [class*=" icon-mw-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'moxi-icon-font' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-mw-roster-flyer:before {
+  content: "\e92e";
+}
+.icon-mw-roster-partner:before {
+  content: "\e92d";
+}
+.icon-mw-roster-organization:before {
+  content: "\e92c";
+}
+.icon-mw-roster-fax:before {
+  content: "\e929";
+}
+.icon-mw-roster-promote:before {
+  content: "\e92a";
+}
+.icon-mw-roster-teams:before {
+  content: "\e92b";
+}
+.icon-mw-family:before {
+  content: "\e928";
+}
+.icon-mw-demographics:before {
+  content: "\e922";
+}
+.icon-mw-financials:before {
+  content: "\e923";
+}
+.icon-mw-living:before {
+  content: "\e924";
+}
+.icon-mw-lifestyle:before {
+  content: "\e925";
+}
+.icon-mw-moreinfo:before {
+  content: "\e926";
+}
+.icon-mw-vehicle:before {
+  content: "\e927";
+}
+.icon-mw-roster-Blogger:before {
+  content: "\e914";
+}
+.icon-mw-roster-facebook:before {
+  content: "\e91a";
+}
+.icon-mw-roster-GooglePlus:before {
+  content: "\e91c";
+}
+.icon-mw-roster-Instagram:before {
+  content: "\e91d";
+}
+.icon-mw-roster-LinkedIn:before {
+  content: "\e91e";
+}
+.icon-mw-roster-Pinterest:before {
+  content: "\e91f";
+}
+.icon-mw-roster-twitter:before {
+  content: "\e920";
+}
+.icon-mw-roster-Youtube:before {
+  content: "\e921";
+}
+.icon-mw-roster-mls:before {
+  content: "\e90f";
+}
+.icon-mw-roster-office:before {
+  content: "\e910";
+}
+.icon-mw-roster-region:before {
+  content: "\e911";
+  color: #000;
+}
+.icon-mw-roster-state:before {
+  content: "\e915";
+}
+.icon-mw-roster-title:before {
+  content: "\e916";
+}
+.icon-mw-roster-paragraph:before {
+  content: "\e91b";
+}
+.icon-mw-sk-activity:before {
+  content: "\e913";
+}
+.icon-mw-sk-close:before {
+  content: "\e912";
+}
+.icon-mw-sk-add:before {
+  content: "\e917";
+}
+.icon-mw-sk-arrow-left:before {
+  content: "\e918";
+}
+.icon-mw-sk-arrow-right:before {
+  content: "\e919";
+}
+.icon-mw-font-gear-00:before {
+  content: "\e900";
+}
+.icon-mw-font-gear-01:before {
+  content: "\e901";
+}
+.icon-mw-font-gear-02:before {
+  content: "\e902";
+}
+.icon-mw-font-gear-03:before {
+  content: "\e903";
+}
+.icon-mw-font-gear-04:before {
+  content: "\e904";
+}
+.icon-mw-font-gear-05:before {
+  content: "\e905";
+}
+.icon-mw-font-gear-06:before {
+  content: "\e906";
+}
+.icon-mw-font-gear-07:before {
+  content: "\e907";
+}
+.icon-mw-font-gear-08:before {
+  content: "\e908";
+}
+.icon-mw-font-gear-09:before {
+  content: "\e909";
+}
+.icon-mw-font-gear-10:before {
+  content: "\e90a";
+}
+.icon-mw-font-gear-11:before {
+  content: "\e90b";
+}
+.icon-mw-font-gear-12:before {
+  content: "\e90c";
+}
+.icon-mw-font-gear-13:before {
+  content: "\e90d";
+}
+.icon-mw-font-gear-14:before {
+  content: "\e90e";
+}

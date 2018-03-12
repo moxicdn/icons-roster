@@ -1,0 +1,264 @@
+@import "variables";
+
+@font-face {
+  font-family: 'moxi-icon-font';
+  src:  url('#{$icomoon-font-path}/moxi-icon-font.eot?pv8qnt');
+  src:  url('#{$icomoon-font-path}/moxi-icon-font.eot?pv8qnt#iefix') format('embedded-opentype'),
+    url('#{$icomoon-font-path}/moxi-icon-font.ttf?pv8qnt') format('truetype'),
+    url('#{$icomoon-font-path}/moxi-icon-font.woff?pv8qnt') format('woff'),
+    url('#{$icomoon-font-path}/moxi-icon-font.svg?pv8qnt#moxi-icon-font') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+[class^="icon-mw-"], [class*=" icon-mw-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'moxi-icon-font' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-mw-roster-flyer {
+  &:before {
+    content: $icon-mw-roster-flyer;
+  }
+}
+.icon-mw-roster-partner {
+  &:before {
+    content: $icon-mw-roster-partner;
+  }
+}
+.icon-mw-roster-organization {
+  &:before {
+    content: $icon-mw-roster-organization;
+  }
+}
+.icon-mw-roster-fax {
+  &:before {
+    content: $icon-mw-roster-fax;
+  }
+}
+.icon-mw-roster-promote {
+  &:before {
+    content: $icon-mw-roster-promote;
+  }
+}
+.icon-mw-roster-teams {
+  &:before {
+    content: $icon-mw-roster-teams;
+  }
+}
+.icon-mw-family {
+  &:before {
+    content: $icon-mw-family;
+  }
+}
+.icon-mw-demographics {
+  &:before {
+    content: $icon-mw-demographics;
+  }
+}
+.icon-mw-financials {
+  &:before {
+    content: $icon-mw-financials;
+  }
+}
+.icon-mw-living {
+  &:before {
+    content: $icon-mw-living;
+  }
+}
+.icon-mw-lifestyle {
+  &:before {
+    content: $icon-mw-lifestyle;
+  }
+}
+.icon-mw-moreinfo {
+  &:before {
+    content: $icon-mw-moreinfo;
+  }
+}
+.icon-mw-vehicle {
+  &:before {
+    content: $icon-mw-vehicle;
+  }
+}
+.icon-mw-roster-Blogger {
+  &:before {
+    content: $icon-mw-roster-Blogger;
+  }
+}
+.icon-mw-roster-facebook {
+  &:before {
+    content: $icon-mw-roster-facebook;
+  }
+}
+.icon-mw-roster-GooglePlus {
+  &:before {
+    content: $icon-mw-roster-GooglePlus;
+  }
+}
+.icon-mw-roster-Instagram {
+  &:before {
+    content: $icon-mw-roster-Instagram;
+  }
+}
+.icon-mw-roster-LinkedIn {
+  &:before {
+    content: $icon-mw-roster-LinkedIn;
+  }
+}
+.icon-mw-roster-Pinterest {
+  &:before {
+    content: $icon-mw-roster-Pinterest;
+  }
+}
+.icon-mw-roster-twitter {
+  &:before {
+    content: $icon-mw-roster-twitter;
+  }
+}
+.icon-mw-roster-Youtube {
+  &:before {
+    content: $icon-mw-roster-Youtube;
+  }
+}
+.icon-mw-roster-mls {
+  &:before {
+    content: $icon-mw-roster-mls;
+  }
+}
+.icon-mw-roster-office {
+  &:before {
+    content: $icon-mw-roster-office;
+  }
+}
+.icon-mw-roster-region {
+  &:before {
+    content: $icon-mw-roster-region;
+  }
+}
+.icon-mw-roster-state {
+  &:before {
+    content: $icon-mw-roster-state;
+  }
+}
+.icon-mw-roster-title {
+  &:before {
+    content: $icon-mw-roster-title;
+  }
+}
+.icon-mw-roster-paragraph {
+  &:before {
+    content: $icon-mw-roster-paragraph;
+  }
+}
+.icon-mw-sk-activity {
+  &:before {
+    content: $icon-mw-sk-activity;
+  }
+}
+.icon-mw-sk-close {
+  &:before {
+    content: $icon-mw-sk-close;
+  }
+}
+.icon-mw-sk-add {
+  &:before {
+    content: $icon-mw-sk-add;
+  }
+}
+.icon-mw-sk-arrow-left {
+  &:before {
+    content: $icon-mw-sk-arrow-left;
+  }
+}
+.icon-mw-sk-arrow-right {
+  &:before {
+    content: $icon-mw-sk-arrow-right;
+  }
+}
+.icon-mw-font-gear-00 {
+  &:before {
+    content: $icon-mw-font-gear-00;
+  }
+}
+.icon-mw-font-gear-01 {
+  &:before {
+    content: $icon-mw-font-gear-01;
+  }
+}
+.icon-mw-font-gear-02 {
+  &:before {
+    content: $icon-mw-font-gear-02;
+  }
+}
+.icon-mw-font-gear-03 {
+  &:before {
+    content: $icon-mw-font-gear-03;
+  }
+}
+.icon-mw-font-gear-04 {
+  &:before {
+    content: $icon-mw-font-gear-04;
+  }
+}
+.icon-mw-font-gear-05 {
+  &:before {
+    content: $icon-mw-font-gear-05;
+  }
+}
+.icon-mw-font-gear-06 {
+  &:before {
+    content: $icon-mw-font-gear-06;
+  }
+}
+.icon-mw-font-gear-07 {
+  &:before {
+    content: $icon-mw-font-gear-07;
+  }
+}
+.icon-mw-font-gear-08 {
+  &:before {
+    content: $icon-mw-font-gear-08;
+  }
+}
+.icon-mw-font-gear-09 {
+  &:before {
+    content: $icon-mw-font-gear-09;
+  }
+}
+.icon-mw-font-gear-10 {
+  &:before {
+    content: $icon-mw-font-gear-10;
+  }
+}
+.icon-mw-font-gear-11 {
+  &:before {
+    content: $icon-mw-font-gear-11;
+  }
+}
+.icon-mw-font-gear-12 {
+  &:before {
+    content: $icon-mw-font-gear-12;
+  }
+}
+.icon-mw-font-gear-13 {
+  &:before {
+    content: $icon-mw-font-gear-13;
+  }
+}
+.icon-mw-font-gear-14 {
+  &:before {
+    content: $icon-mw-font-gear-14;
+  }
+}
+
